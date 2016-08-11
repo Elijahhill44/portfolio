@@ -1,0 +1,24 @@
+body {
+	
+	padding-top: 20%;
+	text-align: center;
+	background-image: url(../img/background.jpg);no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.text {
+	text-shadow: 2px 2px #000;
+	color: #fff;
+}
+
+#yourSign{
+	text-shadow: 2px 2px #000;
+	color: #fff;
+}
+#yourHoroscope{
+	text-shadow: 2px 2px #000;
+	color: #fff;
+}
